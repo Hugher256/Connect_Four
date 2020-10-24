@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+:root {
+    font-family: 'Roboto';
+}
+
+h1 {
+
+    text-align: center;
+    font-weight: 400;
+    font-size: 4em;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+table {
+    margin: auto;
+    background: rgba(0, 0, 0, 0.2);
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius: 35px;
+    text-align: center;
+}
+
+#rone td:hover {
+    background: #d4feff;
+}
+
+#rone {
+    background: yellow;
+}
+
+.turnBlue {
+    background: blue;
+}
+
+.turnRed {
+    background: red;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+h4 {
+    color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
